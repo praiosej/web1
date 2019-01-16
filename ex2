@@ -1,0 +1,17 @@
+<!doctype html>
+
+<html>
+  <head>
+      <meta charset="utf-8">
+      <title></title>
+  </head>
+  <body>
+    <input type="button" value="Japankuru" onclick="alert('clicked')">
+    <input type="text" onchange="alert('changed')">
+    <input type="text" onkeydown="alert('key down')">
+
+    <script>
+
+    </script>
+  </body>
+</html>
